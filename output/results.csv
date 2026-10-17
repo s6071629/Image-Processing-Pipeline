@@ -1,0 +1,5 @@
+operation,MSE,PSNR(dB),max_pixel_diff,my_time_ms,opencv_time_ms,slowdown
+Grayscale,0,inf,0,276.134,3.23726,85.2989
+Gaussian 5x5,0.00841329,68.881143,1,793.313,4.39361,180.561
+Median 3x3,0,inf,0,8209.98,1.70828,4805.99
+Sobel,0,inf,0,941.309,12.0779,77.9362
